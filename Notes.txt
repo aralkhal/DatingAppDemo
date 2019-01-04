@@ -1,0 +1,34 @@
+DatingApp Demo:
+
+*Visual Studio Code Extensions for C#:
+---------------------------------------
+ 1- C#
+ 2- C# Extensions
+ 3- nuget
+
+
+*Commands .NET Core:
+-------------------------------------
+ dotnet watch : to run the code  (server will restart by itself).
+ dotnet run : to run the code. 
+
+
+*Async vs Sync code:
+--------------------
+Async is better cause there will not be a delay in the process where 
+the users wait until the request comes back from the database.
+
+
+*Install:
+---------------
+- bootstrap.
+- font-awesome.
+Add both of them under styles.css
+@import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+@import '../node_modules/font-awesome/css/font-awesome.min.css';
+
+
+*Postman:
+--------------
+- aralkhal
+- For testing and hosting Web APIs
